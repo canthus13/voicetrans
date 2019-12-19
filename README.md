@@ -24,5 +24,6 @@ The output is only able to do docx at the moment, and will be in ~/transcription
     add options for plain text or odt format.
     decide if I actually need the os library.
     email output to specified email address
+    More robust file identification (using python-magic, maybe?)
     possibly add rudimentary formatting capability? (distant future)
     
